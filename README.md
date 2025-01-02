@@ -1,10 +1,10 @@
-## Raphael de Amorim🐼
+# Raphael de Amorim🐼
 
-### Olá a todos, sejam bem vindos!
+## Olá a todos, sejam bem vindos!
 
 Atualmente eu tenho 22 anos moro no Espírito Santo, sou alguém que gosta de tecnologias, música, jogos e literatura! Ainda estou iniciando na área da programação, por isso eu sei que ainda tem muita coisa para aprender!😁
 
-⚙️Tecnologias e Ferramentas
+###⚙️Tecnologias e Ferramentas
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 
