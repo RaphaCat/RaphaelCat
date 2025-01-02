@@ -26,9 +26,9 @@ Atualmente eu tenho 22 anos moro no Espírito Santo, sou alguém que gosta de te
 </div>
 
 <div>
-<a href="https://github.com/Raphael-de-Amorim-Rodrigues-Dias">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-de-Amorim-Rodrigues-Dias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-de-Amorim-Rodrigues-Dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Raphael de Amorim Rodrigues Dias">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael de Amorim Rodrigues Dias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael de Amorim Rodrigues Dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Raphael-de-Amorim-Rodrigues-Dias/Raphael-de-Amorim-Rodrigues-Dias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RaphaeldeAmorimRodriguesDias/RaphaeldeAmorimRodriguesDias/blob/output/github-contribution-grid-snake.svg)
