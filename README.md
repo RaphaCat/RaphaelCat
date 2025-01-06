@@ -41,6 +41,7 @@ Aqui estão algumas estatísticas sobre meu perfil e as linguagens que mais util
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCat&layout=compact&langs_count=7&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=YOUR_TOKEN" />
 </div>  
+
 ---
 
 ## 📫 Vamos nos Conectar!  
