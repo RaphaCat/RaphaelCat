@@ -27,19 +27,11 @@ Sou Raphael, tenho 22 anos e moro no Espírito Santo. Sou apaixonado por tecnolo
 ---
 
 ## 🍵🎮 Passatempos  
-- 📖 Amo ler fantasia medieval (Tolkien e George R.R. Martin são meus favoritos! ⚔️).  
+- 📖 Amo ler fantasia medieval (The Lord of the Rings is the best ever⚔️).  
 - 👾 Jogos casuais (não sou competitivo, mas me divirto bastante).  
 - 🎶 Escuto muita música, especialmente Metal melódico e erudita.  
-- 🎥 Filmes de horror são os meus preferidos 🧟.  
-
----
-
-## 📫 Vamos nos Conectar!  
-<div>
-<a href = "mailto:raphaelnoobb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/raphaeldeamorimrodriguesdias" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>  
-
+- 🎥 Filmes de horror são os meus preferidos.
+  
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
@@ -48,4 +40,11 @@ Aqui estão algumas estatísticas sobre meu perfil e as linguagens que mais util
 <a href="https://github.com/RaphaCat">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCat&layout=compact&langs_count=7&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=YOUR_TOKEN" />
+</div>  
+---
+
+## 📫 Vamos nos Conectar!  
+<div>
+<a href = "mailto:raphaelnoobb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/raphaeldeamorimrodriguesdias" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
