@@ -5,15 +5,13 @@ Sou Raphael, tenho 22 anos e moro no Espírito Santo. Sou apaixonado por tecnolo
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas  
-
 ## Front-End
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>  
 
-##Ferramentas
+## Ferramentas
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/>  
 
-##Linguagens
+## Linguagens
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>  
 
 - **HTML5, CSS3**: Iniciante  
@@ -31,8 +29,8 @@ Sou Raphael, tenho 22 anos e moro no Espírito Santo. Sou apaixonado por tecnolo
 ## 🍵🎮 Passatempos  
 - 📖 Amo ler fantasia medieval (Tolkien e George R.R. Martin são meus favoritos! ⚔️).  
 - 👾 Jogos casuais (não sou competitivo, mas me divirto bastante).  
-- 🎶 Escuto muita música, especialmente rock e trilhas sonoras.  
-- 🎥 Filmes de horror são os meus preferidos (adoro histórias de zumbis! 🧟).  
+- 🎶 Escuto muita música, especialmente Metal melódico e erudita.  
+- 🎥 Filmes de horror são os meus preferidos 🧟.  
 
 ---
 
@@ -49,7 +47,7 @@ Aqui estão algumas estatísticas sobre meu perfil e as linguagens que mais util
 <div>
 <a href="https://github.com/RaphaCat">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCat&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=YOUR_TOKEN" />
 </div>  
 
 ---
